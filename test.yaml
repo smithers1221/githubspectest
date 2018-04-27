@@ -57,8 +57,8 @@ specs:
 
 
 - os.run-command:
-    output_dir: /commands/df/
-    name: df
+    output_dir: /commands/NEWD/
+    name: NEWD 
     args:
       - -h
       - --total
