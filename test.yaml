@@ -21,7 +21,7 @@ specs:
     output_dir: /os/uptime
 - os.run-command:
     output_dir: /os/df
-    name: df
+    name: fancy_dir
     args:
       - -h
       - --total
