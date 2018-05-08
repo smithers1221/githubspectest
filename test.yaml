@@ -21,7 +21,7 @@ specs:
     output_dir: /os/uptime
 - os.run-command:
     output_dir: /os/df
-    name: dir_localtest_2
+    name: dir_localtest_3
     args:
       - -h
       - --total
