@@ -1,4 +1,4 @@
-github_ref specs:
+repo_fullname_null specs:
 
 - docker.info:
     output_dir: /docker/info
