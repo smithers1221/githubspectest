@@ -1,4 +1,4 @@
-repo_fullname_null_why specs:
+getCurrentRef_fix:
 
 - docker.info:
     output_dir: /docker/info
