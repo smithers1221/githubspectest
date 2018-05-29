@@ -1,4 +1,4 @@
-trying again specs:
+owner_name specs:
 
 - docker.info:
     output_dir: /docker/info
