@@ -1,4 +1,4 @@
-still_trying specs:
+timestamp specs:
 
 - docker.info:
     output_dir: /docker/info
