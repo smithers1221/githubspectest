@@ -1,4 +1,4 @@
-geez_many specs:
+fixed_query specs:
 
 - docker.info:
     output_dir: /docker/info
