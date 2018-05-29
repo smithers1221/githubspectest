@@ -1,4 +1,4 @@
-fixed_query specs:
+fixes_faxes specs:
 
 - docker.info:
     output_dir: /docker/info
