@@ -1,4 +1,4 @@
-testingtesting specs:
+ngroked specs:
 
 - docker.info:
     output_dir: /docker/info
