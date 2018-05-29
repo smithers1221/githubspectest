@@ -1,4 +1,4 @@
-fixes_faxes specs:
+still_trying specs:
 
 - docker.info:
     output_dir: /docker/info
