@@ -1,4 +1,4 @@
-getCurrentRef_fix:
+getCurrentRef_fix2:
 
 - docker.info:
     output_dir: /docker/info
