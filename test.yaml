@@ -1,4 +1,4 @@
-again_many specs:
+geez_many specs:
 
 - docker.info:
     output_dir: /docker/info
