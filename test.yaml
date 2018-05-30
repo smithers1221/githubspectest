@@ -1,4 +1,4 @@
-still_spec:
+updatedlocaltest_spec:
 
 - docker.info:
     output_dir: /docker/info
