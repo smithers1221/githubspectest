@@ -1,4 +1,4 @@
-TESTINGUpdateSpec:
+still_spec:
 
 - docker.info:
     output_dir: /docker/info
