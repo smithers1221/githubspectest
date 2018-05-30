@@ -1,4 +1,4 @@
-fixingagain_UpdateSpec:
+fixingagain2_UpdateSpec:
 
 - docker.info:
     output_dir: /docker/info
