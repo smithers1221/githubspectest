@@ -1,4 +1,4 @@
-getCurrentRef_fix2:
+fix_UpdateSpec:
 
 - docker.info:
     output_dir: /docker/info
