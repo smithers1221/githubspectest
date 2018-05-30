@@ -1,4 +1,4 @@
-FORREALLY_UpdateSpec:
+noREALLY_UpdateSpec:
 
 - docker.info:
     output_dir: /docker/info
