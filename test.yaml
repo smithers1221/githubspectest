@@ -1,4 +1,4 @@
-remove_GithubRef_spec:
+remove_unusedimports_spec:
 
 - docker.info:
     output_dir: /docker/info
