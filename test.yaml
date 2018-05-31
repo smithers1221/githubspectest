@@ -1,4 +1,4 @@
-cleanuplocaltest_spec:
+circlefix_spec:
 
 - docker.info:
     output_dir: /docker/info
