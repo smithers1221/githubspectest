@@ -1,4 +1,4 @@
-unusedconst_newSB_spec:
+remove_GithubRef_spec:
 
 - docker.info:
     output_dir: /docker/info
