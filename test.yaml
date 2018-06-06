@@ -1,4 +1,4 @@
-refactor1_spec:
+refactor2_spec:
 
 - docker.info:
     output_dir: /docker/info
