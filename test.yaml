@@ -1,4 +1,4 @@
-privateasync_spec:
+privateasync2_spec:
 
 - docker.info:
     output_dir: /docker/info
