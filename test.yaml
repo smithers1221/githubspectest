@@ -1,4 +1,4 @@
-privateasync2_spec:
+localtest_spec:
 
 - docker.info:
     output_dir: /docker/info
