@@ -1,4 +1,4 @@
-ngrokgithub_spec3:
+testgithub_spec3:
 
 - docker.info:
     output_dir: /docker/info
