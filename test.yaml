@@ -1,4 +1,4 @@
-nolocal2_spec3:
+ngrokgithub_spec3:
 
 - docker.info:
     output_dir: /docker/info
