@@ -1,4 +1,4 @@
-nolocal_spec3:
+nolocal2_spec3:
 
 - docker.info:
     output_dir: /docker/info
