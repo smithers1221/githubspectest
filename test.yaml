@@ -1,4 +1,4 @@
-testgithub_spec3:
+testgithub2_spec3:
 
 - docker.info:
     output_dir: /docker/info
