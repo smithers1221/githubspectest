@@ -1,4 +1,4 @@
-arethetestspassing???_spec:
+header_check_spec:
 
 - docker.info:
     output_dir: /docker/info
