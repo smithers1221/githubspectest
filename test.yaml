@@ -1,4 +1,4 @@
-check_request/response_spec:
+output_request/response_to_hook:
 
 - docker.info:
     output_dir: /docker/info
