@@ -1,4 +1,4 @@
-header_check2_spec:
+header_check3_spec:
 
 - docker.info:
     output_dir: /docker/info
