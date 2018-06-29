@@ -1,4 +1,4 @@
-test_request/response_to_hook:
+adding_final_tests_hook:
 
 - docker.info:
     output_dir: /docker/info
